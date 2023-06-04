@@ -6,7 +6,7 @@
 
 <div align="left">
  
- #### *(aka 'Castill0.666', aka 'Castillo', aka 'Bran95', aka 'pibelanzallamas'🔥)*
+ #### *(aka 'Castill0.666', aka 'Castillo', aka 'Braaan95', aka 'pibelanzallamas' 🔥)*
  
 </div>
 
@@ -18,10 +18,10 @@
 
 <div align="left">
  
- - 🇦🇷 *De Buenos Aires, Argentina.*
+ - 🇦🇷 *From Buenos Aires, Argentina.*
  - 💛 *JavaScript Lover.*
  - ✍️ *Love for learning new things.*
- - 🏓 *Love to work on a team.*
+ - 🏓 *Love to work on teams.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/blackshoees/)*
 
 </div>
@@ -33,8 +33,8 @@
 <div align="middle">
  
   ### ``Contact me on Gmail:``
- 
   *brandoncastillo.09@gmail.com*
+ 
 </div>
 
 <br>
