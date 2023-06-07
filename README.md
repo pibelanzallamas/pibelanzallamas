@@ -54,6 +54,7 @@
  
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Brandooon95)
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/pibelanzallamas)
+ [![Codewrs](https://www.codewars.com/users/pibelanzallamas/badges/micro)](https://www.codewars.com/users/pibelanzallamas)
  
 </div>
 
