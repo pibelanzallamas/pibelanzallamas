@@ -6,7 +6,7 @@
 
 <div align="left">
  
- #### *(aka 'Castill0.666', aka 'Castillo', aka 'Braaan95', aka 'pibelanzallamas' 🔥)*
+ #### *(aka 'Casti', aka 'Castillo', aka 'Castill0.666', aka 'Braaan95', aka 'pibelanzallamas'🔥)*
  
 </div>
 
