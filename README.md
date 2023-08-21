@@ -18,7 +18,7 @@
 
 <div align="left">
  
- 1. 🇦🇷 *From Buenos Aires, Argentina.*
+ - 🇦🇷 *From Buenos Aires, Argentina.*
  - 💛 *JavaScript Lover.*
  - ✍️ *Love for learning new things.*
  - 🏓 *Love to work on teams.*
