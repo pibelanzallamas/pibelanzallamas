@@ -2,7 +2,7 @@
 
 # Hello 👋, I'm Brandon Castillo
 
-<img align="right" src="https://media.tenor.com/0uISrCKju1kAAAAC/edward-cowboy-bebop.gif" width="400" height="280">
+<img align="right" src="https://media.tenor.com/2GTfGOQMA-wAAAAC/computer-nerd.gif" width="400" height="280">
 
 <div align="left">
  
