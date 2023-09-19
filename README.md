@@ -2,7 +2,7 @@
 
 # Hello 👋, I'm Brandon Castillo
 
-<img align="right" src="https://media.tenor.com/2GTfGOQMA-wAAAAC/computer-nerd.gif" width="400" height="280">
+<img align="right" src="https://i.gifer.com/fetch/w300-preview/42/42847698b0beff5a20e0d17ab0965999.gif" width="400" height="280">
 
 <div align="left">
  
