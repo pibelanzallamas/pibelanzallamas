@@ -39,15 +39,15 @@
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
  
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
  <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&theme=gruvbox" width="600px"/>  |  <img align="right" src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="330px"/>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pibelanzallamas)](https://github.com/pibelanzallamas/github-readme-stats)
- 
-</div> -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center">
  
