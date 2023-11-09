@@ -1,6 +1,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&colorB=blue) 
 
-# Hello 👋, I'm Brandon Castillo [`Portfolio`](https://brandon-portfolio-phi.vercel.app/contact)
+# Hello 👋, I'm Brandon Castillo 
 
 <img align="right" src="https://media.tenor.com/2GTfGOQMA-wAAAAC/computer-nerd.gif" width="400" height="280">
 
@@ -30,6 +30,9 @@
 ## <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&pause=1000&color=FFEB65DC&center=true&vCenter=true&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
 
 <div align="middle">
+
+  ###  ``Portfolio`` 
+  *[💼](https://brandon-portfolio-phi.vercel.app/contact)*
  
   ### ``Contact me on Gmail:``
   *brandoncastillo.09@gmail.com*
