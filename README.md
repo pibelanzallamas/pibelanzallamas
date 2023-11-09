@@ -1,6 +1,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&colorB=blue) 
 
-# Hello 👋, I'm Brandon Castillo
+# Hello 👋, I'm Brandon Castillo [`Portfolio`](https://brandon-portfolio-phi.vercel.app/contact)
 
 <img align="right" src="https://media.tenor.com/2GTfGOQMA-wAAAAC/computer-nerd.gif" width="400" height="280">
 
@@ -26,7 +26,6 @@
 
 </div>
 
-<br>
 
 ## <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&pause=1000&color=FFEB65DC&center=true&vCenter=true&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
 
@@ -43,11 +42,8 @@
  
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
- <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=THEGOLDENPRO&show_icons=true&theme=gruvbox" width="600px"/>  |  <img align="right" src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=THEGOLDENPRO&theme=gruvbox" width="330px"/>
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pibelanzallamas)](https://github.com/pibelanzallamas/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+ <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=gruvbox" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pibelanzallamas&theme=gruvbox" width="330px"/>   
+ </div>
 
 <div align="center">
  
@@ -57,9 +53,8 @@
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Brandooon95)
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/pibelanzallamas)
  
- 
 </div>
 
-<!-- ***One day I'll develop a game... well guess you got to follow me until that day comes...*** -->
+***Whats the word? right i forgot, quiet is the closet thing we got*** 
 
-<!-- ##### (⚡[Secret](https://gist.github.com/THEGOLDENPRO/3ba012f94efa04ae7c216e753c882052) )‎ ‎ ‎ (🎯[Contact Me](#contact-me-on-discord) ) -->
+##### 🎯[Contact Me](http://discordapp.com/users/995051014883381318)
