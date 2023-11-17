@@ -6,13 +6,13 @@
 
 <div align="left">
  
- #### *(aka 'Casti', aka 'Castillo', aka 'Castill0.666', aka 'Brandooon95', aka 'pibelanzallamas'🔥)*
+ #### *(aka 'Casti', aka 'Castill0.666, aka 'pibelanzallamas'🔥)*
  
 </div>
 
 <div align="center">
  
-  ### ***💫 ``self taught Javascript developer``***
+  ### ***💫 ``Javascript developer``***
  
 </div>
 
