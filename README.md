@@ -43,7 +43,7 @@
  
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
- <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=gruvbox" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width="330px"/>   
+ <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=transparent" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width="330px"/>   
  </div>
 
 <div align="center">
