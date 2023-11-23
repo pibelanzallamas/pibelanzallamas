@@ -56,6 +56,6 @@
  
 </div>
 
-***Whats the word? right i forgot, quiet is the closet thing we got*** 
+***Guess someday I will program a real cool app*** 
 
 ##### 🎯[Contact Me](http://discordapp.com/users/995051014883381318)
