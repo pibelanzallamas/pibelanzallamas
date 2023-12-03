@@ -59,4 +59,12 @@
   
 </div>
 
-<div> Get ready to have some fun! 🚀</div>
+<div align="center"> 
+
+
+ ### ``Get ready to have some fun!``
+ ### 🚀
+ 
+
+
+</div>
