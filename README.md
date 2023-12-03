@@ -34,7 +34,9 @@
 <div align="middle">
  
   ### ``Contact me on Discord:``
-![pibelanzallama's Discord](https://discord-readme-badge.vercel.app/api?id=995051014883381318)
+[![pibelanzallama's Discord](https://discord-readme-badge.vercel.app/api?id=995051014883381318)](http://discord.com/users/995051014883381318)
+### ``or``
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Brandon43374569)
  
 </div>
 
