@@ -13,7 +13,7 @@
 
 <div align="center">
  
-  ### ***💫 ``Javascript developer``***
+  ### ***💫 ``self-taught Javascript developer:``***
  
 </div>
 
@@ -33,8 +33,11 @@
 
 <div align="middle">
  
-  ### ``Contact me:``
+  ### ``Contact me on Discord:``
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/995051014883381318)
+
+
+  [![Goldy's Discord](https://discord-readme-badge.vercel.app/api?id=995051014883381318)](http://discord.com/users/995051014883381318)
  
 </div>
 
