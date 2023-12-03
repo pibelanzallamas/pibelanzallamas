@@ -34,7 +34,7 @@
 <div align="middle">
  
   ### ``Contact me on Discord:``
-![pibelanzallama's Discord](https://discord-readme-badge.vercel.app/api?id=<995051014883381318>)
+![pibelanzallama's Discord](https://discord-readme-badge.vercel.app/api?id=995051014883381318)
  
 </div>
 
