@@ -33,8 +33,8 @@
 
 <div align="middle">
  
-  ### ``Contact me on Gmail:``
-  *brandoncastillo.09@gmail.com*
+  ### ``Contact me:``
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/995051014883381318)
  
 </div>
 
@@ -44,7 +44,7 @@
  
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
- <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=transparent" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width="330px"/>   
+ <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=transparent" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent" width="330px"/>   
  </div>
 
 <div align="center">
@@ -56,7 +56,3 @@
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/pibelanzallamas)
  
 </div>
-
-***Guess someday I will program a real cool app*** 
-
-##### 🎯[Contact Me](http://discordapp.com/users/995051014883381318)
