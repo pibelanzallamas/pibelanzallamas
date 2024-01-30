@@ -24,7 +24,7 @@
  - ✍️ *Love for learning new things.*
  - 🏓 *Love to work on teams.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/blackshoees/)*
- - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/contact "Brandon's Portfolio" target="_blank")*
+ - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/contact)*
 
 </div>
 <br>
