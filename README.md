@@ -25,7 +25,7 @@
  - 🏓 *Love to work on teams.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/blackshoees/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
- - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/contact)*
+   <!-- - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/contact)* -->
 
 </div>
 <br>
