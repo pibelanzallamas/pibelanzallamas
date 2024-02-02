@@ -19,8 +19,8 @@
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - 💛 *Javascript enthusiast.*
- - ✍️ *Love for building excellence products.*
+ - 💛 *Javascript lover.*
+ - ✍️ *Love for building excellent products.*
  - 🏓 *Love to work on teams.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/blackshoees/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
