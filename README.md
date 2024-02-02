@@ -19,7 +19,7 @@
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - 💛 *Javascript developer.*
+ - 💛 *Javascript enthusiast.*
  - ✍️ *Love for building excellence products.*
  - 🏓 *Love to work on teams.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/blackshoees/)*
@@ -36,7 +36,7 @@
   ### ``Contact me on Discord:``
 [![pibelanzallama's Discord](https://discord-readme-badge.vercel.app/api?id=995051014883381318)](http://discord.com/users/995051014883381318)
 ### ``or``
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Brandon43374569)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pibelanzallamas)
  
 </div>
 
@@ -62,7 +62,7 @@
 <div align="center"> 
 
 
- ### ``Get ready to have some fun!``
+ ### ``I can't wait to work on cool stuff!``
  ### 🚀
  
 
