@@ -19,10 +19,10 @@
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - 💛 *Javascript lover.*
+ - 💛 *Javascript enthusiast.*
  - ✍️ *Love for building excellent products.*
  - 🏓 *Love to work on teams.*
- - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/blackshoees/)*
+ - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/pibelanzallamas/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
    <!-- - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/contact)* -->
 
