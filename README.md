@@ -28,20 +28,6 @@
 
 </div>
 <br>
-
-## <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&pause=1000&color=FFEB65DC&center=true&vCenter=true&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
-
-<div align="middle">
- 
-### ``Contact me on Discord:``
-[![pibelanzallama's Discord](https://discord-readme-badge.vercel.app/api?id=995051014883381318)](http://discord.com/users/995051014883381318)
-### ``or``
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/brancastillodev)
- 
-</div>
-
-<br>
-
 <div align="center">
  
    **Stats**                 | **Top Languages**
