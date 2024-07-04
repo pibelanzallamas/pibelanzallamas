@@ -6,7 +6,7 @@
 
 <div align="left">
  
- #### *(aka 'pibelanzallamas' 🔥)*
+ #### *(alias 'pibelanzallamas' 🔥)*
  
 </div>
 
