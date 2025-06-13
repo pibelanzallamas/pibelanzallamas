@@ -24,7 +24,7 @@
  - 🏓 *Love to work on teams.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/pibelanzallamas/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
- - 👓 *Website. [**[💼]**](https://brandon-castillo.vercel.app/)* -->
+ - 👓 *Website. [**[💼]**](https://brandon-castillo.vercel.app/)*
 
 </div>
 
