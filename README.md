@@ -19,12 +19,12 @@
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - 💛 *Javascript enthusiast.*
+ - 💛 *Javascript and Python enthusiast.*
  - ✍️ *Love for building excellent products.*
  - 🏓 *Love to work on teams.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/pibelanzallamas/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
-   <!-- - 👓 *Portfolio. [**[💼]**](https://brandon-portfolio-phi.vercel.app/contact)* -->
+ - 👓 *Website. [**[💼]**](https://brandon-castillo.vercel.app/)* -->
 
 </div>
 
