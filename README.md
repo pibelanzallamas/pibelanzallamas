@@ -32,12 +32,12 @@
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
  
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
  <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=transparent" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent" width="330px"/>   
- </div>
+ </div> -->
 
 <div align="center">
  
