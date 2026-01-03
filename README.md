@@ -6,22 +6,23 @@
 
 <div align="left">
  
- #### *(alias 'pibelanzallamas' 🔥)*
+ #### *(alias 'castill0.666' 🏰, alias 'pibelanzallamas' 🔥)*
  
 </div>
 
 <div align="center">
  
-  ### ***💫 ``Full Stack Developer:``***
+  ### ***💫 ``Front End & UX Designer:``***
  
 </div>
 
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - 💛 *Javascript and Python enthusiast.*
+ - 🩷 *Sass enthusiast.*
  - ✍️ *Love for building excellent products.*
  - 🏓 *Love to work on teams.*
+ - 😇 *Patient worker.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/pibelanzallamas/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
  - 😊 *Website. [**[🌐]**](https://brandon-castillo.vercel.app/)*
@@ -32,12 +33,12 @@
 <br>
 <br>
 
-<!-- <div align="center">
+<div align="center">
  
    **Stats**                 | **Top Languages**
   :-------------------------:|:-------------------------:
  <img src="https://github-readme-stats.vercel.app/api?username=pibelanzallamas&show_icons=true&theme=transparent" width="600px"/>  |  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent" width="330px"/>   
- </div> -->
+ </div>
 
 <div align="center">
  
