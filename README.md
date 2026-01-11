@@ -19,9 +19,9 @@
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - ✍️ *Love for building excellent products.*
+ - ✍️ *Love creating things.*
+ -  🩷 *Sass enthusiast.*
  - 🏓 *Love to work on teams.*
- - 🩷 *Sass enthusiast.*
  - 😇 *Patient worker.*
  - 📽 *Movie watcher. [**[LTBX]**](https://letterboxd.com/pibelanzallamas/)*
  - 🍜 *Anime watcher. [**[MAL]**](https://myanimelist.net/profile/pibelanzallamas/)*
